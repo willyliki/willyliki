@@ -1,6 +1,3 @@
-**Lin Li Qi's GitHub**  
+**Hi there, this is Willy**  
 ===
-Education  
----
-- HSNU
-- NTNU CSIE
+Currently learning everything
